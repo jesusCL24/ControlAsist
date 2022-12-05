@@ -1,0 +1,11 @@
+com\AsisteciaControl\Asistencia\AsistenciaApplication.class
+com\AsisteciaControl\Asistencia\controlador\PlanillaControlador.class
+com\AsisteciaControl\Asistencia\repositorio\UsuarioRepositorio.class
+com\AsisteciaControl\Asistencia\servicio\UsuarioServicioImp.class
+com\AsisteciaControl\Asistencia\repositorio\PlanillaRepositorio.class
+com\AsisteciaControl\Asistencia\controlador\UsuarioControlador.class
+com\AsisteciaControl\Asistencia\servicio\UsuarioServicio.class
+com\AsisteciaControl\Asistencia\entidad\Usuario.class
+com\AsisteciaControl\Asistencia\servicio\PlanillaServicio.class
+com\AsisteciaControl\Asistencia\servicio\PlanillaServicioImp.class
+com\AsisteciaControl\Asistencia\entidad\Planilla.class
